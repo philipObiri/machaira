@@ -90,7 +90,6 @@ DATABASES = {
         'PASSWORD':env("DATABASE_PASS"),
         'HOST':env('DATABASE_HOST'),
         'PORT':5432
-
     }
 }
 
