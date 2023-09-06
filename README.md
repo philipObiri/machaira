@@ -1,2 +1,3 @@
-# techy-blog
-A fully functional blog app. 
+# Machaira
+
+A Blog built with Django
